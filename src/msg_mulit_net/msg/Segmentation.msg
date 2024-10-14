@@ -1,0 +1,13 @@
+int32 grid_x_size
+int32 grid_y_size
+float32 min_x_range
+float32 max_x_range
+float32 min_y_range
+float32 max_y_range
+float32 min_z_range
+float32 max_z_range
+float32 pillar_x_size
+float32 pillar_y_size
+float32 pillar_z_size
+int32[] labels
+float32[] scores

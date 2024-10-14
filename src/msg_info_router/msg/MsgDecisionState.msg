@@ -1,0 +1,3 @@
+std_msgs/Header header
+bool pointcloud_recieved_flag
+bool pointcloud_lacked_flag
