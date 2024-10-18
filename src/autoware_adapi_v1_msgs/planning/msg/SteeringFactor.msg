@@ -19,3 +19,6 @@ string behavior
 string sequence
 string detail
 autoware_adapi_v1_msgs/CooperationStatus[<=1] cooperation
+
+#deprecated constants for status
+uint16 TRYING = 2
