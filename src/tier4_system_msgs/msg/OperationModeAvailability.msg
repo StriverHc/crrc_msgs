@@ -6,3 +6,4 @@ bool remote
 bool emergency_stop
 bool comfortable_stop
 bool pull_over
+bool lane_departure_warning
