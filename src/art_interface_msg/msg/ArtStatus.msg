@@ -6,8 +6,7 @@ bool iehs_comm_error # 与线控转向控制器的通信故障
 
 uint8 ccu_life #整车生命信号
 float64 tram_speed #整车速度 单位：m/s
-bool drive_direction_mc1 #整车行驶MC1方向 
-bool drive_direction_mc2 #整车行驶MC2方向 
+bool movement_direction_activation_signal #前进方向激活信号 
 
 float64 actual_tire_angle #实际头轴转角
 bool axle1_sensor_error_a # 轴1角度传感器信号A故障
