@@ -1,0 +1,74 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from art_interface_msg/msg/ArtStatus.msg
+// generated code does not contain a copyright notice
+
+
+module art_interface_msg {
+  module msg {
+    struct ArtStatus {
+      @verbatim (language="comment", text=
+        "DAS横向控制功能故障")
+      boolean das_control_disfunction;
+
+      @verbatim (language="comment", text=
+        "横向控制功能激活指令")
+      boolean lateral_control_activation;
+
+      @verbatim (language="comment", text=
+        "偏离预警功能激活指令")
+      boolean deviation_warning_activation;
+
+      @verbatim (language="comment", text=
+        "与线控转向控制器的通信故障")
+      boolean iehs_comm_error;
+
+      @verbatim (language="comment", text=
+        "整车生命信号")
+      uint8 ccu_life;
+
+      @verbatim (language="comment", text=
+        "整车速度 单位：m/s")
+      double tram_speed;
+
+      @verbatim (language="comment", text=
+        "前进方向激活信号")
+      boolean movement_direction_activation_signal;
+
+      @verbatim (language="comment", text=
+        "实际头轴转角")
+      double actual_tire_angle;
+
+      @verbatim (language="comment", text=
+        "轴1角度传感器信号A故障")
+      boolean axle1_sensor_error_a;
+
+      @verbatim (language="comment", text=
+        "轴1角度传感器信号B故障")
+      boolean axle1_sensor_error_b;
+
+      @verbatim (language="comment", text=
+        "轴1角度传感器电气故障")
+      boolean axle1_sensor_error_electrical;
+
+      @verbatim (language="comment", text=
+        "轴2角度传感器信号A故障")
+      boolean axle2_sensor_error_a;
+
+      @verbatim (language="comment", text=
+        "轴2角度传感器信号B故障")
+      boolean axle2_sensor_error_b;
+
+      @verbatim (language="comment", text=
+        "轴2角度传感器电气故障")
+      boolean axle2_sensor_error_electrical;
+
+      @verbatim (language="comment", text=
+        "实际方向盘转角")
+      double actual_steering_angle;
+
+      @verbatim (language="comment", text=
+        "IEHS设备故障")
+      boolean iehs_device_fault;
+    };
+  };
+};

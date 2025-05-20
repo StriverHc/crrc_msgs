@@ -1,0 +1,2 @@
+int64 traffic_light_group_id
+crrcpilot_perception_msgs/TrafficLightElement[] elements

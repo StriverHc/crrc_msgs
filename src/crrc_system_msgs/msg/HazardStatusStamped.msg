@@ -1,0 +1,2 @@
+std_msgs/Header header
+crrc_system_msgs/HazardStatus status

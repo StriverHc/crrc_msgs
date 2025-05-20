@@ -1,0 +1,28 @@
+{
+  "package_name": "art_interface_msg",
+  "output_dir": "/home/nvidia/workspace/msgs/src/build/art_interface_msg/rosidl_generator_c/art_interface_msg",
+  "template_dir": "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource",
+  "idl_tuples": [
+    "/home/nvidia/workspace/msgs/src/build/art_interface_msg/rosidl_adapter/art_interface_msg:msg/ControlCommand.idl",
+    "/home/nvidia/workspace/msgs/src/build/art_interface_msg/rosidl_adapter/art_interface_msg:msg/ArtStatus.idl",
+    "/home/nvidia/workspace/msgs/src/build/art_interface_msg/rosidl_adapter/art_interface_msg:msg/ArtLifeSignal.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../../../lib/python3.8/site-packages/rosidl_generator_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/action__type_support.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__functions.c.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__functions.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__struct.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/idl__type_support.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__functions.c.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__functions.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__struct.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/msg__type_support.h.em",
+    "/opt/ros/humble/share/rosidl_generator_c/cmake/../resource/srv__type_support.h.em",
+    "/home/nvidia/workspace/msgs/src/build/art_interface_msg/rosidl_adapter/art_interface_msg/msg/ControlCommand.idl",
+    "/home/nvidia/workspace/msgs/src/build/art_interface_msg/rosidl_adapter/art_interface_msg/msg/ArtStatus.idl",
+    "/home/nvidia/workspace/msgs/src/build/art_interface_msg/rosidl_adapter/art_interface_msg/msg/ArtLifeSignal.idl"
+  ]
+}

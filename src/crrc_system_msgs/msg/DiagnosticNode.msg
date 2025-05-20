@@ -1,0 +1,2 @@
+diagnostic_msgs/DiagnosticStatus status
+crrc_system_msgs/DiagnosticLink[] links

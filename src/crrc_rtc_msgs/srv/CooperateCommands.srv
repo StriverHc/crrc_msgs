@@ -1,0 +1,4 @@
+builtin_interfaces/Time stamp
+crrc_rtc_msgs/CooperateCommand[] commands
+---
+crrc_rtc_msgs/CooperateResponse[] responses

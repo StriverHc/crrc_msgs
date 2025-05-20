@@ -1,0 +1,8 @@
+{
+  "package_name": "art_interface_msg",
+  "non_idl_tuples": [
+    "/home/nvidia/workspace/msgs/src/art_interface_msg:msg/ControlCommand.msg",
+    "/home/nvidia/workspace/msgs/src/art_interface_msg:msg/ArtStatus.msg",
+    "/home/nvidia/workspace/msgs/src/art_interface_msg:msg/ArtLifeSignal.msg"
+  ]
+}

@@ -1,0 +1,2 @@
+crrcpilot_planning_msgs/LaneletPrimitive preferred_primitive
+crrcpilot_planning_msgs/LaneletPrimitive[] primitives

@@ -1,0 +1,4 @@
+bool stop
+string request_source
+---
+crrcpilot_common_msgs/ResponseStatus status

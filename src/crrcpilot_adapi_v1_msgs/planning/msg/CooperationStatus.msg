@@ -1,0 +1,4 @@
+unique_identifier_msgs/UUID uuid
+crrcpilot_adapi_v1_msgs/CooperationDecision autonomous
+crrcpilot_adapi_v1_msgs/CooperationDecision cooperator
+bool cancellable

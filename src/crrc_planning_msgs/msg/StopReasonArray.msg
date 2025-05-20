@@ -1,0 +1,2 @@
+std_msgs/Header header
+crrc_planning_msgs/StopReason[] stop_reasons

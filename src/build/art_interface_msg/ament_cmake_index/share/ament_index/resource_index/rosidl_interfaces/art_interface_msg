@@ -1,0 +1,6 @@
+msg/ArtLifeSignal.idl
+msg/ArtLifeSignal.msg
+msg/ArtStatus.idl
+msg/ArtStatus.msg
+msg/ControlCommand.idl
+msg/ControlCommand.msg

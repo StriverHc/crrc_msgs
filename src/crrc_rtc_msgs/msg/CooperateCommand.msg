@@ -1,0 +1,3 @@
+unique_identifier_msgs/UUID uuid
+crrc_rtc_msgs/Module module
+crrc_rtc_msgs/Command command

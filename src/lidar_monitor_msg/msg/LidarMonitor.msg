@@ -1,0 +1,3 @@
+std_msgs/Header header
+bool lidar_error_network
+bool lidar_error_driver

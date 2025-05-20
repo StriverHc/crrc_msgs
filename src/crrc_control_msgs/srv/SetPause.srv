@@ -1,0 +1,3 @@
+bool pause
+---
+crrcpilot_common_msgs/ResponseStatus status

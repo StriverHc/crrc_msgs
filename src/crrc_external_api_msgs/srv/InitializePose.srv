@@ -1,0 +1,3 @@
+geometry_msgs/PoseWithCovarianceStamped pose
+---
+crrc_external_api_msgs/ResponseStatus status

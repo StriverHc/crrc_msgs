@@ -1,0 +1,2 @@
+builtin_interfaces/Time stamp
+crrc_simulation_msgs/FaultInjectionEvent[] fault_injection_events

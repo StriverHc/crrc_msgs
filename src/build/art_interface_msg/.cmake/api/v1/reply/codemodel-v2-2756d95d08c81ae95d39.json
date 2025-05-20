@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-3fdfc1fcc80f7405fdf1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "art_interface_msg__py",
+					"jsonFile" : "directory-art_interface_msg__py-Release-3c7fa4c0e28fca794623.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/nvidia/workspace/msgs/src/build/art_interface_msg/art_interface_msg__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "art_interface_msg",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_art_interface_msg_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_art_interface_msg_egg-Release-1f3d8190c34cfe3e37e9.json",
+					"name" : "ament_cmake_python_build_art_interface_msg_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_art_interface_msg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_art_interface_msg-Release-f7287ac4dc067e37d120.json",
+					"name" : "ament_cmake_python_copy_art_interface_msg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg-Release-2a6cfba7347f53264069.json",
+					"name" : "art_interface_msg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__cpp-Release-e6638d9726d81f65408e.json",
+					"name" : "art_interface_msg__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "art_interface_msg__py::@ca5879468ff9c6769908",
+					"jsonFile" : "target-art_interface_msg__py-Release-dc67cf2371a4adb02db0.json",
+					"name" : "art_interface_msg__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_generator_c-Release-92efcf1fabcde88232bb.json",
+					"name" : "art_interface_msg__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_generator_py-Release-89082a305342026f3030.json",
+					"name" : "art_interface_msg__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_typesupport_c-Release-d2e55db1d9786718f0ec.json",
+					"name" : "art_interface_msg__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_typesupport_c__pyext-Release-cba2335465121dec482a.json",
+					"name" : "art_interface_msg__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_typesupport_cpp-Release-eb7da0a0f5fe557869ad.json",
+					"name" : "art_interface_msg__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_typesupport_fastrtps_c-Release-97f4b842326bd9744034.json",
+					"name" : "art_interface_msg__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_typesupport_fastrtps_c__pyext-Release-5987d0edb62b06678cc6.json",
+					"name" : "art_interface_msg__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_typesupport_fastrtps_cpp-Release-478c98de3c897211e12f.json",
+					"name" : "art_interface_msg__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_typesupport_introspection_c-Release-04ec63ef0e6b740dfa6c.json",
+					"name" : "art_interface_msg__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_typesupport_introspection_c__pyext-Release-6752faff7c705ea6f241.json",
+					"name" : "art_interface_msg__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg__rosidl_typesupport_introspection_cpp-Release-d93c64ce6590ab87c43e.json",
+					"name" : "art_interface_msg__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "art_interface_msg_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-art_interface_msg_uninstall-Release-76cd93bb430bd24a0631.json",
+					"name" : "art_interface_msg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-Release-de880398a4e5137c0fd4.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/nvidia/workspace/msgs/src/build/art_interface_msg",
+		"source" : "/home/nvidia/workspace/msgs/src/art_interface_msg"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

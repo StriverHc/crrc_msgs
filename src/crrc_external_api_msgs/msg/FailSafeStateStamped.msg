@@ -1,0 +1,2 @@
+builtin_interfaces/Time stamp
+crrc_external_api_msgs/FailSafeState state

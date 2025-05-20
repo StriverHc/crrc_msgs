@@ -1,0 +1,5 @@
+unique_identifier_msgs/UUID id
+float64 existence_probability
+crrcpilot_adapi_v1_msgs/ObjectClassification[] classification
+crrcpilot_adapi_v1_msgs/DynamicObjectKinematics kinematics
+shape_msgs/SolidPrimitive shape
