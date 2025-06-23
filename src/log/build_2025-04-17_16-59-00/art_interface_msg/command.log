@@ -1,4 +1,0 @@
-Invoking command in '/home/nvidia/workspace/msgs/src/build/art_interface_msg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/nvidia/workspace/msgs/src/build/art_interface_msg -- -j12 -l12
-Invoked command in '/home/nvidia/workspace/msgs/src/build/art_interface_msg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/nvidia/workspace/msgs/src/build/art_interface_msg -- -j12 -l12
-Invoking command in '/home/nvidia/workspace/msgs/src/build/art_interface_msg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/nvidia/workspace/msgs/src/build/art_interface_msg
-Invoked command in '/home/nvidia/workspace/msgs/src/build/art_interface_msg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/nvidia/workspace/msgs/src/build/art_interface_msg
